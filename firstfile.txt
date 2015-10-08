@@ -1,3 +1,6 @@
+just adding here
 this is a test file
 Adding this as part of a new branch. then attempting to merge
-This is now a new change. 
+This is now a new change.
+
+working more changes in. 
